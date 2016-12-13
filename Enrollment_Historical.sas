@@ -826,6 +826,6 @@ run;
 
 proc freq data=temp.fall13;
 	table ipeds_level*ttl_imp/norow nocol nopercent;
-run;
+
 
 /* added by xz for testing.  12/13/2016 */
